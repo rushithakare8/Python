@@ -1,6 +1,6 @@
 """
 This algorithm helps you to swap cases.
-
+#############################################################
 User will give input and then program will perform swap cases.
 
 In other words, convert all lowercase letters to uppercase letters and vice versa.
@@ -34,4 +34,4 @@ def swap_case(sentence: str) -> str:
 
 
 if __name__ == "__main__":
-    print(swap_case(input("Please input sentence: ")))
+    print(swap_case(input("Enter input sentence: ")))
